@@ -4,6 +4,6 @@
 
  - Html
  - Css
- - Js
+ - JS
 
  Este repositorio es de Johan 
