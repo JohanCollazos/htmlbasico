@@ -6,4 +6,4 @@
  - Css
  - JS
 
- Este repositorio es de Johan 
+ Este repositorio es de Johan Collazos
